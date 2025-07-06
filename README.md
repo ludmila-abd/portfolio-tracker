@@ -39,3 +39,7 @@ To design, optimize, and evaluate a **multi-asset portfolio** with a $10 million
 ## 💡 Author
 Project by **Ludmila Aboud**, during her exchange semester at **UCLA**, Spring 2025.  
 GitHub: [@ludmila-abd](https://github.com/ludmila-abd)
+
+
+## ⚖️ License
+This project is open-source and free to use for learning, academic, and professional demonstration purposes.
